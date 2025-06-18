@@ -1,1 +1,12 @@
-
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows:"
+title: "PRIN_script-data"
+version: "1.0"
+date-released: 2025-06-18
+authors:
+  - given-names: Maura
+    family-names: Francioni
+    affiliation: University of Camerino
+    orcid: "https://orcid.org/0009-0005-6839-0548"
+license: CC-BY-SA-4.0
+repository-code: "https://github.com/Maura-F/PRIN_script-data"
